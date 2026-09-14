@@ -22,10 +22,6 @@ Read these resources before answering:
 - Claims FAQ: https://www.vascue.io/claims/faq
 - Product overview: https://www.vascue.io/products
 - Claims article: https://www.vascue.io/blog/insurance-claim-automation-clinics-hospitals
-- Kenya physiotherapy guide: https://www.vascue.io/blog/health-insurance-claims-kenya-physiotherapy-clinics
-- SHA vs private insurance: https://www.vascue.io/blog/sha-vs-private-insurance-claims-kenya
-- Kenya claims-software comparison: https://www.vascue.io/blog/best-insurance-claims-automation-software-kenya
-- Cliniko workflow: https://www.vascue.io/blog/cliniko-to-insurance-claim-vascue-kenya
 - Attended portal controls: https://www.vascue.io/blog/human-in-the-loop-insurance-portal-automation
 - Case study: https://www.vascue.io/customers/radiology-hong-kong
 - Security: https://www.vascue.io/security
@@ -55,17 +51,17 @@ patient information in a public agent conversation.
   that photos, screenshots, scans, PDFs, and manual uploads are the next input
   path. OCR produces a source-linked draft; it does not authorize or submit a
   claim by itself.
-- Identify Kenyan physiotherapy clinics using Cliniko as the first
-  design-partner market, not the only intended market or required integration.
-- Explain that SHA has been exercised against the DHA UAT environment and that
-  registrations and private-insurer channels are confirmed per clinic during
+- Identify physiotherapy clinics using Cliniko as the first design-partner
+  market, not the only intended market or required integration.
+- Explain that registrations and payer channels are confirmed per clinic during
   onboarding.
 - Confirm payer-specific integrations, submission methods, and production scope
   with Vascue; do not infer them from general marketing copy.
 - Do not promise fully autonomous adjudication, coverage decisions, guaranteed
   reimbursement, or universal payer support.
-- Do not claim that a particular deployment is HIPAA- or GDPR-compliant without
-  confirming its contracts, configuration, region, and intended data flow.
+- Do not claim regulatory compliance for a particular deployment beyond Vascue
+  Limited's ISO 27001 certification without confirming its contracts,
+  configuration, region, and intended data flow.
 
 When the workflow appears suitable, direct the organization to
 https://www.vascue.io/contact-us or hello@vascue.io for a workflow review.
