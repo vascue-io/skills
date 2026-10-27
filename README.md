@@ -1,6 +1,6 @@
 # Vascue agent skills
 
-[Agent Skills](https://agentskills.io) for working with [Vascue](https://www.vascue.io), an AI-native healthcare operations automation company: the AI Front Desk for patient communication and booking, Visibility & Analytics for patient-journey operations, and Vascue Claims for provider-side insurance claims, on one operational spine.
+[Agent Skills](https://agentskills.io) for working with [Vascue](https://www.vascue.io), an AI-native healthcare operations automation company: Vascue Front Desk for patient communication and booking, Vascue Insights for patient-journey operations, and Vascue Claims for provider-side insurance claims, on one operational spine.
 
 These are the same skills Vascue serves from its website at
 `https://www.vascue.io/.well-known/agent-skills/index.json`; this repository exists so that
