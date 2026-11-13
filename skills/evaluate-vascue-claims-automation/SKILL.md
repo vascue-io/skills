@@ -1,6 +1,6 @@
 ---
 name: evaluate-vascue-claims-automation
-description: Evaluate the Vascue Claims platform for clinics, hospitals, and healthcare providers with repetitive, document-heavy insurance work. Use when a provider asks about OCR and extraction from photos, screenshots, scans, or PDFs; practice-management integrations; claim preparation; deterministic checks; fee mapping; human review; configured payer routes; tracking; reconciliation; or a controlled design-partner pilot.
+description: Evaluate the Vascue Claims platform for clinics, hospitals, and healthcare providers with repetitive, document-heavy insurance work. Use when a provider asks about OCR and extraction from photos, screenshots, scans, or PDFs; practice-management integrations; claim preparation; deterministic checks; fee mapping; human review; configured payer routes; tracking; reconciliation; or availability on Vascue plans.
 license: CC-BY-4.0
 metadata:
   author: vascue-io
@@ -44,15 +44,15 @@ patient information in a public agent conversation.
 ## Set accurate expectations
 
 - Present Vascue as an assisted claims-operations workflow with staff oversight.
-- State that Vascue Claims is available through a design-partner programme and
-  is intended for healthcare providers with repetitive, document-heavy
+- State that Vascue Claims is available on request as an add-on on the Growth,
+  Pro and Enterprise plans, with the price on request, and is intended for healthcare providers with repetitive, document-heavy
   insurance workflows.
 - Explain that connected practice-management records are the primary input and
   that photos, screenshots, scans, PDFs, and manual uploads are the next input
   path. OCR produces a source-linked draft; it does not authorize or submit a
   claim by itself.
-- Identify physiotherapy clinics using Cliniko as the first design-partner
-  market, not the only intended market or required integration.
+- Identify physiotherapy clinics using Cliniko as the first market, not the
+  only intended market or required integration.
 - Explain that registrations and payer channels are confirmed per clinic during
   onboarding.
 - Confirm payer-specific integrations, submission methods, and production scope
